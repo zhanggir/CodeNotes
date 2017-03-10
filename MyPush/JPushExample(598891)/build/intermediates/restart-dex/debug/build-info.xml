@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5552677728848"
+    token="-6160458129251132679"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="7888" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1208" />
+    <task
+        name="verifier"
+        duration="116" />
+
+    <artifact
+        location="F:\ScorellView-ListView\MyPush\JPushExample(598891)\build\outputs\apk\JPushExample(598891)-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="5552677728848"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\ScorellView-ListView\MyPush\JPushExample(598891)\build\outputs\apk\JPushExample(598891)-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

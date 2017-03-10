@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScorellView-ListView.iml" filepath="$PROJECT_DIR$/ScorellView-ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binner/binner.iml" filepath="$PROJECT_DIR$/binner/binner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewholdertext/viewholdertext.iml" filepath="$PROJECT_DIR$/viewholdertext/viewholdertext.iml" />
+    </modules>
+  </component>
+</project>
